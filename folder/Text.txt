@@ -1,8 +1,9 @@
-Cherry
-Apple
-Banana
-Peach
-Pineapple
+<<<<<<< HEAD
+Cherry-san
+apple-tan
+banana-nyan
+peach-kun
+pineapple-sama
 Plum
 Perry
 blackberry
@@ -16,3 +17,4 @@ ananas
 ślifka
 grushka
 jeżyna
+>>>>>>> 391474967d625e64493fe7831386e103ef51330c
